@@ -1,3 +1,23 @@
-nav ul{
+.wrapper {
+    background:brown;
+}
+.wrapper header{
+    position:absolute;
+    left:10%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.wrapper nav{
+    position:absolute;
+    right:10%;
+   
+}
+
+.wrapper nav ul {
     list-style:none;
+    display:inline-block;
+}
+.wrapper nav ul li{
+    
+    display:inline-block;
 }
