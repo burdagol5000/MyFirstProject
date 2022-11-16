@@ -13,7 +13,10 @@ body{
     position:absolute;
     left:2%;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
     width:50%;
+    padding-top:10px;
+    padding-left:10px;
     background:white;
     color:black;
     height:60px;
@@ -25,7 +28,7 @@ body{
     text-align: right;
     background:white;
     height:60px;
-    font-family:"copperplate", fantasy;
+    font-family: 'Fredoka One', cursive;
    
 }
 
