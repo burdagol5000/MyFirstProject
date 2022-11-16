@@ -6,7 +6,7 @@ body{
 
 .wrapper {
 
-    height:60px;
+    height:15%;
     display:flex;
     flex-direction:row;
     border-bottom:solid;
@@ -59,7 +59,7 @@ body{
 
 }
 .wrapper nav ul li:hover{
-    background-color:rgb(124, 124, 215);
+    background-color:rgb(73, 208, 215);
     text-decoration:none;
     color: white;
     opacity:0.6px;
