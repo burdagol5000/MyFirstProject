@@ -7,8 +7,6 @@ body{
 .wrapper {
 
     height:15%;
-    display:flex;
-    flex-direction:row;
     border-bottom:solid;
     border-color:lightblue;
     transition:0.2;
@@ -18,16 +16,18 @@ body{
     
     font-family: 'Titan One', cursive;
     font-size: 30px;
-    width:50%;
     padding-top:10px;
     padding-left:10px;
     background:white;
     color:black;
-    
+    text-align:center;    
+}
+.wrapper header div img{
+    height:10%;
 }
 .wrapper nav{
     
-    width:50%;
+    
     text-align: right;
     background:white;
     font-family: 'Fredoka One', cursive;
