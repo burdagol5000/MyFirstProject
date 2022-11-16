@@ -31,10 +31,18 @@ body{
 
 .wrapper nav ul {
     list-style:none;
+    text-align:center;
     
+
 }
 .wrapper nav ul li{
     
     display:inline-block;
-
+   height:3px;
+    
+}
+.wrapper nav ul li a{
+    text-decoration:none;
+    color: white;
+    
 }
