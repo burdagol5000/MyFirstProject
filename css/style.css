@@ -1,5 +1,7 @@
 body{
-    box-sizing:5em;
+    margin:0px;
+    padding:0px;
+    border:0px;
 }
 
 .wrapper {
@@ -9,7 +11,7 @@ body{
 }
 .wrapper header{
     position:absolute;
-    left:3%;
+    left:2%;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     width:50%;
     background:black;
@@ -18,20 +20,21 @@ body{
 }
 .wrapper nav{
     position:absolute;
-    right:3%;
+    right:2%;
     width:50%;
     text-align: right;
     background:blue;
     height:2em;
-    font-family:copperplate;
+    font-family:"Lucida Console", "Courier New", monospace;
    
 }
 
 .wrapper nav ul {
     list-style:none;
-    display:inline-block;
+    
 }
 .wrapper nav ul li{
     
     display:inline-block;
+
 }
