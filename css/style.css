@@ -1,15 +1,29 @@
+body{
+    box-sizing:5em;
+}
+
 .wrapper {
-    background:brown;
+
+    height:35px;
+    
 }
 .wrapper header{
     position:absolute;
-    left:10%;
+    left:3%;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    
+    width:50%;
+    background:black;
+    color:white;
+    height:2em;
 }
 .wrapper nav{
     position:absolute;
-    right:10%;
+    right:3%;
+    width:50%;
+    text-align: right;
+    background:blue;
+    height:2em;
+    font-family:copperplate;
    
 }
 
