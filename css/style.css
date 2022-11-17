@@ -68,11 +68,13 @@ body{
 
     display:flex;
     flex-direction:row;
-    justify-content:space-between;
+    justify-content:space-around;
+    margin-left:20px;
+    margin-right:20px;
     
 }
 .page div{
-    width:45%;
+    width:40%;
     text-align:center;
     font-family: 'Titan One', cursive;
     display:flex;
@@ -134,4 +136,10 @@ body{
 }
 .page div div.news1 a{
     font-family: Arial, Helvetica, sans-serif;
+}
+footer{
+    height:10%;
+    border-style:solid;
+    border-top:3px;
+
 }
