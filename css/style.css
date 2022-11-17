@@ -2,11 +2,12 @@ body{
     margin:0px;
     padding:0px;
     border:0px;
+    height:60em;
 }
 
 .wrapper {
 
-    height:10%;
+    height:33%;
     border-bottom:solid;
     border-color:lightblue;
     
@@ -139,6 +140,7 @@ body{
 }
 
 footer div.foot{
+    display:absolute;
     border-style:ridge;
     height:10%;
     border-bottom:1px;
@@ -169,5 +171,6 @@ footer div.foot a{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    font-family:'Courier New', Courier, monospace;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size:22px;
 }
