@@ -69,6 +69,7 @@ body{
     display:flex;
     flex-direction:row;
     justify-content:space-between;
+    
 }
 .page div{
     width:45%;
@@ -76,7 +77,8 @@ body{
     font-family: 'Titan One', cursive;
     display:flex;
     flex-direction:column;
-    justify-content:center;
+    justify-content:flex-start;
+    flex-wrap: wrap;
 }
 .page div h1{
     color:blue;
@@ -104,6 +106,9 @@ body{
 }
 .page div div.message1 a{
     font-family: Arial, Helvetica, sans-serif;
+}
+.page div .page{
+    margin-top:0;
 }
 
 .page div div.news1{
