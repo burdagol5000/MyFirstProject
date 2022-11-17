@@ -141,7 +141,9 @@ body{
 footer div.foot{
     border-style:ridge;
     height:10%;
-    border-top:1px;
-    position:absolute;
+    border-bottom:1px;
+    position:fixed;
     width:100%;
+    bottom:0;
+    font-size:30px;
 }
