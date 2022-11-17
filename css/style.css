@@ -156,3 +156,18 @@ footer div.foot a{
     margin:0 0 0 0;
     color:rgb(14, 37, 162);
 }
+.about{
+    
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-content: stretch;
+    align-items: center;
+}
+.about p{
+    width:60%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family:'Courier New', Courier, monospace;
+}
