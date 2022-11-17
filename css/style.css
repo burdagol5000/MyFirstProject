@@ -146,4 +146,13 @@ footer div.foot{
     width:100%;
     bottom:0;
     font-size:30px;
+    padding-left:10%;
+}
+footer div.foot h6{
+    margin:0 0 0 0;
+    color:rgb(14, 37, 162);
+}
+footer div.foot a{
+    margin:0 0 0 0;
+    color:rgb(14, 37, 162);
 }
