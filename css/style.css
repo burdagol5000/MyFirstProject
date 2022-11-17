@@ -137,9 +137,11 @@ body{
 .page div div.news1 a{
     font-family: Arial, Helvetica, sans-serif;
 }
-footer{
-    height:10%;
-    border-style:solid;
-    border-top:3px;
 
+footer div.foot{
+    border-style:ridge;
+    height:10%;
+    border-top:1px;
+    position:absolute;
+    width:100%;
 }
