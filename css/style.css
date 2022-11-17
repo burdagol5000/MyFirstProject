@@ -104,5 +104,29 @@ body{
 }
 .page div div.message1 a{
     font-family: Arial, Helvetica, sans-serif;
-    
+}
+
+.page div div.news1{
+    width:100%;
+    padding-left:25px;
+    padding-right:25px;
+    text-align:center;
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+}
+.page div div.news1 h3{
+    width:100%;
+    padding-left:15px;
+    text-align:center;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(31, 20, 128);
+    font-weight:bold;
+}
+.page div div.news1 p{
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: center;
+    display:flex;
+}
+.page div div.news1 a{
+    font-family: Arial, Helvetica, sans-serif;
 }
