@@ -42,7 +42,7 @@ body{
     justify-content:center;
     list-style:none;
     text-align:center;
-    transition:0.2;
+    
 }
 .wrapper nav ul li{
    line-height:25px;
@@ -64,7 +64,7 @@ body{
     background-color:rgb(73, 208, 215);
     text-decoration:none;
     color: white;
-    opacity:0.6px;
+    opacity:0.6;
 }
 .wrapper nav ul li a:hover{
     text-decoration:none;
@@ -149,7 +149,7 @@ body{
 }
 
 footer div.foot{
-    display:absolute;
+    
     border-style:ridge;
     height:10%;
     border-bottom:1px;
