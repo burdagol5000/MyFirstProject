@@ -91,7 +91,7 @@ body{
     flex-wrap: wrap;
     margin-top:10px;
     margin-bottom:10px;
-    background-color:rgb(233, 235, 241);
+    background-color:rgb(204, 207, 215);
     border-radius:10px;
     border:1px;
 }
@@ -108,7 +108,7 @@ body{
     text-align:center;
     font-family: Arial, Helvetica, sans-serif;
     color:black;
-    background-color:rgb(189, 192, 200);
+    
     border-radius:10px;
     border:1px;
     
