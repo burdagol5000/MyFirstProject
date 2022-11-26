@@ -8,3 +8,4 @@ As of now this is the start of the development of the website. We know its not t
 
 <h3>Features</h3>
 Features a Navigation bar which consist of Home, About us page and Contact us page. On the Home page there we will post announcements and news for everyone to see. 
+<img src="docs/nav bar.png">
