@@ -210,6 +210,20 @@ footer div.foot a{
 img{
     max-width: 100%;
 }
+.missing
+{
+    font-size:30px;
+    text-align:center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-content: stretch;
+    align-items: center;
+    flex-grow: 1;
+
+}
+
+
 
 @media (max-width:1000px){
     .pictures{
