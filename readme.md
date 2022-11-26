@@ -6,7 +6,7 @@ This website is dedication for the present and Future Fugitives Guild members. W
 
 As of now this is the start of the development of the website. We know its not that good looking but we promise to continue on developing the website for we will be getting some designerrs for the website itself. The website will be featuring some of our photos of our game bonding and in real life bonding. Also you may contact us for any suggestions or if you are interested in joining us. You may also subscribe to get news straight to your email address.
 
-<h3>Features</h3>
+<h2>Features</h2>
 Features a Navigation bar which consist of Home, About us page and Contact us page.  
 <img src="docs/nav bar.png">
 
@@ -22,3 +22,12 @@ Also Showcases some pictures from our ingame and real life bonding.
 
 And lastly the contact us page has a form that you can give us a feedback or if you want to contact us for any questions, and if you want to subscribe to our newsletter. 
 <img src="docs/contact.png">
+
+<h2>Validation</h2>
+<h4> HTML Validation</h4>
+Index.html
+<br/>
+<img src="docs/validation.png">
+<br/>
+About.html
+<img src="docs/validation.png">
