@@ -191,12 +191,19 @@ footer div.foot a{
     align-content: stretch;
     align-items: center;
     flex-grow: 1;
-    
     border-radius: 10px;
     border: 5px;
+    border-style:ridge;
     background-color:rgb(185, 189, 188);
     height:200px;
 }
 .contact .span{
     font-size:30px;
+}
+.pictures{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+img{
+    max-width: 100%;
 }
