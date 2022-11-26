@@ -210,3 +210,52 @@ footer div.foot a{
 img{
     max-width: 100%;
 }
+
+@media (max-width:1000px){
+    .pictures{
+        display:grid;
+        grid-template-columns: 1fr 1fr;
+        gap:1rem;
+        margin:auto;
+        padding: 20px;
+    }
+}
+@media (max-width:600px){
+.page{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    margin-left:10px;
+    margin-right:10px;
+    flex-grow: 1; 
+}
+.page div{
+    width:100%;
+    text-align:center;
+    font-family: 'Titan One', cursive;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    flex-wrap: wrap;
+    margin-top:10px;
+    margin-bottom:10px;
+    background-color:rgb(204, 207, 215);
+    border-radius:10px;
+    border:1px;
+}
+.about p{
+    width:90%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size:22px;
+}
+.pictures{
+    display:grid;
+    grid-template-columns: 1fr;
+    gap:1rem;
+    margin:auto;
+    padding: 20px;
+}
+}
