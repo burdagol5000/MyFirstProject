@@ -30,4 +30,10 @@ Index.html
 <img src="docs/validation.png">
 <br/>
 About.html
-<img src="docs/validation.png">
+<img src="docs/aboutvalidation.png">
+<br/>
+Contact.html
+<img src="docs/contactvalidation.png">
+<br/>
+Style.css
+<img src="docs/css validation.png">
