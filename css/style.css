@@ -203,6 +203,9 @@ footer div.foot a{
 .pictures{
     display:grid;
     grid-template-columns: 1fr 1fr 1fr;
+    gap:1rem;
+    margin:auto;
+    padding: 20px;
 }
 img{
     max-width: 100%;
