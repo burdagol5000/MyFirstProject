@@ -37,3 +37,32 @@ Contact.html
 <br/>
 Style.css
 <img src="docs/css validation.png">
+
+Site Performance
+<img src="docs/performance.png">
+
+
+<h2>Deployment</h2>
+
+My Site was Deployed using Github Pages. The steps I took were as follows:<br/>
+1. On the repository Page, Click on the settings icon. <br/>
+2. On the left hand side corner click pages on the menu.<br/>
+3. On the branch selected Main, then on the folder selected root then clicked save.
+4. After a few minutes Github has generated my website which has a URL of: https://burdagol5000.github.io/MyFirstProject/
+
+<h2>Credits</h2>
+
+<ul>
+<li>Icons used where from Font Awesome(https://fontawesome.com/)</li>
+<li>Some fonts used were from Google Fonts(https://fonts.google.com/)</li>
+<li>Flexbox tutorial from Kevin Powell on Youtube (https://www.youtube.com/@KevinPowell)</li>
+<li>Some HTML and CSS Tutorial from SuperSimpleDev on Youtube (https://www.youtube.com/@SuperSimpleDev)</li>
+<li>Form Validation from Code Institute LMS</li>
+</ul>
+
+<h3>Media</h3>
+
+<ul>
+<li>All Pictures were all taken from personal Facebook page (https://www.facebook.com/vicente.ponteras/)</li>
+</ul>
+
